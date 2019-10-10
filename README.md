@@ -1,5 +1,3 @@
-# Chess_Game
-
 ### Overview
 A chess game made using Java and Object Oriented Principles. Functional graphical user interface to move chess pieces.
 
